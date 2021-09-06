@@ -1,1 +1,1 @@
-:beetle:
+:tiger2:
