@@ -1,3 +1,1 @@
-```bash
-npm i gh-pages
-```
+:pray:
